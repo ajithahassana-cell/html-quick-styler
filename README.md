@@ -60,7 +60,8 @@ Enhancements
 👨‍💻 Author
 
 Developed as an academic mini-project using Python and Gradio
-HTML QUICK styler
+
+HTML QUICK STYLER
 output
 <img width="1059" height="534" alt="Screenshot 2026-03-04 102651" src="https://github.com/user-attachments/assets/e6916fd1-cadf-4336-89f2-decde95ae5a8" />
 <img width="1002" height="637" alt="Screenshot 2026-03-04 102958" src="https://github.com/user-attachments/assets/1a03b401-8e60-469d-a888-968053ada7ab" />
